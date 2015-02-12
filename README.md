@@ -1,7 +1,7 @@
 zotero-open-with
 ================
 
-[**MOVED https://gitlab.com/raabf/zotero-open-with**]
+[**MOVED https://gitlab.com/raabf/zotero-open-with**](https://gitlab.com/raabf/zotero-open-with)
 
 This is a plug in for [Zotero](http://www.zotero.org/).
 
