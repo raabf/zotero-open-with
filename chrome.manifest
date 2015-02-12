@@ -1,5 +1,0 @@
-content	zoteroopenwith				chrome/content/zoteroopenwith/
-locale	zoteroopenwith	en-US		chrome/locale/en-US/zoteroopenwith/
-skin	zoteroopenwith	default		chrome/skin/default/zoteroopenwith/
-
-overlay	chrome://zotero/content/zoteroPane.xul	chrome://zoteroopenwith/content/overlay.xul
